@@ -16,7 +16,8 @@ I care about:
 - ⚙️ **Backend systems** in Node.js & Python  
 - ☁️ **Cloud-native architectures** (AWS, serverless, CI/CD)  
 - 🔐 Secure APIs (mTLS, OAuth, webhooks, integrations)  
-- 📊 Data-driven features, analytics & dashboards  
+- 📊 Data-driven features, analytics & dashboards
+- 💬 **Slack integrations** in Node.js
 
 I tend to work on projects that start small… and accidentally grow into real products.
 
